@@ -1,0 +1,20 @@
+{
+  "name": "Могучий рыцарь 2",
+  "short_name": "Рыцарь 2",
+  "description": "Аркадный экшен с волнами врагов, пятью героями, боссами и кооперативом онлайн. Работает без интернета.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0b0812",
+  "theme_color": "#0b0812",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
